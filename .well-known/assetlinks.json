@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dxorgiary.twa",
+        "sha256_cert_fingerprints": ["DC:5A:7E:FF:98:E3:01:F7:F4:B9:AE:54:A0:A2:95:50:22:5D:28:3A:67:14:4E:27:A4:8C:15:80:4C:8E:71:53"]
+      }
+    }]
+
